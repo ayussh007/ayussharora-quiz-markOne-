@@ -10,7 +10,7 @@ var highScores = [
 
   {
     name: "Adi",
-    score: 5,
+    score: 4,
   },
 ]
 
